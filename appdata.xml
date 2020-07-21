@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>org.synfig.SynfigStudio</id>
+  <launchable type="desktop-id">org.synfig.SynfigStudio.desktop</launchable>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0</project_license>
+  <name>Synfig Studio</name>
+  <summary>Create and edit 2D animations and compositions</summary>
+  <description>
+    <p>Synfig Studio is a free and open-source 2D animation software, designed as powerful industrial-strength solution for creating film-quality animation using a vector and bitmap artwork. It eliminates the need to create animation frame-by frame, allowing you to produce 2D animation of a higher quality with fewer people and resources.</p>
+    <p xml:lang="fr">Synfig Studio est un logiciel libre et open-source d'animation 2D, pensé comme une solution d'une efficacité professionnelle pour la création d'animations de qualité cinéma utilisant des illustrations vectorielles ou matricielles. Il élimine la nécessité de créer les animations image par image, et vous permet de produire des animations 2D d'une qualité élevée avec moins de personnes et de ressources. </p>
+    <p>Features:</p>
+    <p xml:lang="fr">Fonctionnalités :</p>
+    <ul>
+      <li>Can manipulate vector and bitmap artwork</li>
+      <li xml:lang="fr">Permet de manipuler des oeuvres vectorielles et bitmaps</li>
+      <li>Automatic tweening (independent from FPS)</li>
+      <li xml:lang="fr">Génération d'images intermédiaires (indépendamment du nombre d'images par seconde)</li>
+      <li>Multitude of layers of various types (geometry primitives, shapes, gradients, fratals)</li>
+      <li xml:lang="fr">Multitude de calques de types variés (primitives géométriques, formes, dégradés, fractales)</li>
+      <li>Full-featured bone system</li>
+      <li xml:lang="fr">Système d'ossature complet</li>
+      <li>Filters and effects for compositing (blurs, distortions, color manipulation, masks)</li>
+      <li xml:lang="fr">Filtres et effets pour la composition (flous, distortions, manipulation de couleur, masques)</li>
+      <li>All color operations use High Dynamic-Range Imaging (HDRI)</li>
+      <li xml:lang="fr">Toutes les opérations en couleurs utilisent le High Dynamic-Range Imaging (HDRI)</li>
+      <li>Pentablet-friendly tools</li>
+      <li xml:lang="fr">Outils compatible avec les tablettes graphiques</li>
+      <li>Sound support</li>
+      <li xml:lang="fr">Support du Son</li>
+      <li>Linking data on file- or parameter-level</li>
+      <li>Automatic animation using mathematical functions</li>
+      <li xml:lang="fr">Animation automatique utilisant des fonctions mathématiques</li>
+    </ul>
+  </description>
+  <screenshots>
+    <screenshot width="1232" type="default" height="693">
+      <image>https://www.synfig.org/wp-content/uploads/2019/11/screenshot-01.png</image>
+      <caption>Synfig Studio workspace</caption>
+      <caption xml:lang="fr">Espace de travail de Synfig Studio</caption>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://www.synfig.org</url>
+  <update_contact>contact_at_synfig.org</update_contact>
+  <keywords>
+    <keyword>2D</keyword>
+    <keyword>Vector</keyword>
+    <keyword>Animation</keyword>
+    <keyword>Cartoon</keyword>
+    <keyword>Anime</keyword>
+    <keyword>FX</keyword>
+    <keyword>Draw</keyword>
+    <keyword>Cutout</keyword>
+    <keyword>Moho</keyword>
+    <keyword>Toomboon</keyword>
+    <keyword>Flash</keyword>
+    <keyword>ToonBoom</keyword>
+  </keywords>
+
+  <developer_name>Synfig</developer_name>
+  <url type="bugtracker">https://github.com/synfig/synfig/issues</url>
+  <url type="donation">https://www.synfig.org/donate/</url>
+  <url type="help">https://wiki.synfig.org/Category:Manual</url>
+  <url type="translate">https://www.transifex.com/morevnaproject/synfig/</url>
+  <content_rating type="oars-1.1"/>
+  <releases>
+    <release version="1.5.0" date="2020-01-29"/>
+  </releases>
+</component>
